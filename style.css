@@ -1,0 +1,37 @@
+@import url("https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/inter.min.css");
+
+body{
+  margin: 0;
+  background-color: #0C152B;
+}
+
+
+#main{
+  display: inline-block;
+  transform: translate(-190px, 340px);
+}
+
+.textt{
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  color: white;
+  font-size: 50px;
+}
+
+.btn{
+  font-family: 'Inter', sans-serif;
+  font-size: 48px;
+  text-decoration: none;
+  color: aliceblue;
+  background-color: #53C0BB;
+  border: none;
+  text-align: center;
+  padding: 23px 78px;
+  display: inline-block;
+  border-radius: 24px;
+  font-weight: bold;
+}
+#baton{
+  display: inline-block;
+  transform: translate(149.5px, 460px) ;
+}
